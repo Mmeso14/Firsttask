@@ -1,0 +1,1 @@
+Today, we learnt how to set up a proper github account.
